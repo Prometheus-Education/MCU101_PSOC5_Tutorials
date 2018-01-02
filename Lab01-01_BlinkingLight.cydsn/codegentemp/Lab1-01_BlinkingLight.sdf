@@ -1,0 +1,19 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2018-01-02T02:23:38Z")
+ (DESIGN "Lab1-01_BlinkingLight")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.1 Update 1")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "Lab1-01_BlinkingLight")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT LED_BLUE\(0\)_PAD LED_BLUE\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)

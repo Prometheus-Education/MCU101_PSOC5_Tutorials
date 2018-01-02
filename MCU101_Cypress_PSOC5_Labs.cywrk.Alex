@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture">
+<ExpandedNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Generated_Source</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Generated_Source\PSoC5</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Generated_Source</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Generated_Source\PSoC5</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Source Files\main.c</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\Pins</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\Analog</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\Clocks</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\Interrupts</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\DMA</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\System</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\Directives</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\Flash Security</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.cydwr\EEPROM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Header Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Header Files\cyapicallbacks.h</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Source Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Source Files\main.c</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\TopDesign</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\TopDesign\TopDesign.cysch</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_Bypass.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_INT.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_IRQ.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_PM.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_SAR_1_theACLK.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Blue_LED.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Servo_Control_Pin.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Servo_Controller.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\Servo_Controller_PM.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_INT.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_IntClock.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Lab00-01_Introductory_Lecture.elf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Lab00-01_Introductory_Lecture.hex</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CortexM3\ARM_GCC_541\Debug\Lab00-01_Introductory_Lecture.map</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\Lab00-01_Introductory_Lecture_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\LED_BLUE.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Lab01-01_BlinkingLight.elf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Lab01-01_BlinkingLight.hex</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CortexM3\ARM_GCC_541\Debug\Lab01-01_BlinkingLight.map</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\Lab01-01_BlinkingLight_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\Lab02-01_ButtonReader_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\Lab03-01_SendingAMessage_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\Lab04-01_ReadingVoltage_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\Lab05-01_MotorControl_PWM-DutyCycle_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\Lab06-01_MakingMusic_PWM-Frequency_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\Lab07-01_InterChipCommunications_I2C_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\Lab08-01_AnalogSignalGeneration_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\Lab09-01_InterruptHandling_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\Lab10-01_EEPROM_Datalogs_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\Lab11-01_DMA_Routing_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\Lab12-01_RealTimeClock_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\Lab13-01_CharacterLCD_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\Lab14-01_GraphicLCD_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\Lab15-01_USB-Game-Controller_timing.html</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.gpdsc</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController.rpt</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\Lab16-01_AudioController_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\ADC_SAR_v3_0.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\cy_clock_v2_20.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\cy_pins_v2_20</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\PWM_v3_30.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\UART_v2_50.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\cy_pins_v2_20.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab05-01_MotorControl_PWM-DutyCycle\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab06-01_MakingMusic_PWM-Frequency\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab07-01_InterChipCommunications_I2C\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab08-01_AnalogSignalGeneration\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab09-01_InterruptHandling\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab10-01_EEPROM_Datalogs\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab11-01_DMA_Routing\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab12-01_RealTimeClock\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab13-01_CharacterLCD\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab14-01_GraphicLCD\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab15-01_USB-Game-Controller\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab16-01_AudioController\System Reference Guides\cy_boot_v5_60</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>MCU101_Cypress_PSOC5_Labs</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\ADC_SAR_v3_0.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\cy_clock_v2_20.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\cy_pins_v2_20</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\PWM_v3_30.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab00-01_Introductory_Lecture\UART_v2_50.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab01-01_BlinkingLight\cy_pins_v2_20.pdf</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab02-01_ButtonReader\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\System Reference Guides</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab03-01_SendingAMessage\System Reference Guides\cy_boot_v5_60</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\PSoC 5LP Architecture TRM</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\CY8C58LP Family Datasheet</v>
+<v>MCU101_Cypress_PSOC5_Labs\Lab04-01_ReadingVoltage\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="MCU101_Cypress_PSOC5_Labs" persistent="MCU101_Cypress_PSOC5_Labs.cywrk" platform="NOT_USED">
+<current_project name=".\Lab16-01_AudioController.cydsn\Lab16-01_AudioController.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<v>.\Lessons\Lab01-01_BlinkingLight.cydsn\Lab01-01_BlinkingLight.cyprj</v>
+<v>.\Lessons\Overview_Lecture.cydsn\Overview_Lecture.cyprj</v>
+<v>.\Lab02-01_ButtonReader.cydsn\Lab02-01_ButtonReader.cyprj</v>
+<v>.\Lab03-01_SendingAMessage.cydsn\Lab03-01_SendingAMessage.cyprj</v>
+<v>.\Lab04-01_ReadingVoltage.cydsn\Lab04-01_ReadingVoltage.cyprj</v>
+<v>.\Lab05-01_MotorControl_PWM-DutyCycle.cydsn\Lab05-01_MotorControl_PWM-DutyCycle.cyprj</v>
+<v>.\Lab06-01_MakingMusic_PWM-Frequency.cydsn\Lab06-01_MakingMusic_PWM-Frequency.cyprj</v>
+<v>.\Lab07-01_InterChipCommunications_I2C.cydsn\Lab07-01_InterChipCommunications_I2C.cyprj</v>
+<v>.\Lab08-01_AnalogSignalGeneration.cydsn\Lab08-01_AnalogSignalGeneration.cyprj</v>
+<v>.\Lab09-01_InterruptHandling.cydsn\Lab09-01_InterruptHandling.cyprj</v>
+<v>.\Lab10-01_EEPROM_Datalogs.cydsn\Lab10-01_EEPROM_Datalogs.cyprj</v>
+<v>.\Lab11-01_DMA_Routing.cydsn\Lab11-01_DMA_Routing.cyprj</v>
+<v>.\Lab12-01_RealTimeClock.cydsn\Lab12-01_RealTimeClock.cyprj</v>
+<v>.\Lab13-01_CharacterLCD.cydsn\Lab13-01_CharacterLCD.cyprj</v>
+<v>.\Lab14-01_GraphicLCD.cydsn\Lab14-01_GraphicLCD.cyprj</v>
+<v>.\Lab15-01_USB-Game-Controller.cydsn\Lab15-01_USB-Game-Controller.cyprj</v>
+<v>.\Lab16-01_AudioController.cydsn\Lab16-01_AudioController.cyprj</v>
+</projects>
+<workspace_id v="4a0fec35-98e7-4853-b9f3-372926b82623" />
+<WriteAppVersionLastSavedWith v="4.1.0.3210" />
+<WriteAppMarketingVersionLastSavedWith v="4.1 Update 1" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyPrjDependencyList" version="4">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize+CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>

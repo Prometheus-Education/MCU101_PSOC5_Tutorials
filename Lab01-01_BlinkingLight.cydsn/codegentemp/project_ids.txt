@@ -1,0 +1,7 @@
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\Lessons\Lab1-01_BlinkingLight.cydsn\Lab1-01_BlinkingLight.cyprj|01cc123b-3476-424c-9e0f-114f4f497fe2
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|bf838de7-c719-4857-8952-3d330783a8b8
+C:\Users\Alex\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|a0fd7ae8-2aba-4510-8c53-1a509473d93b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|d914cbc1-ced5-4ae2-9f08-30289a5a1599
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|c1ab6a87-9264-4cd4-86cf-9b64855eac01
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5ee3c5b4-bb43-45a2-8642-6780be052f4e
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\Lessons\Overview_Lecture.cydsn\Overview_Lecture.cyprj|b51326ac-da12-4876-8694-6ce0f02d34ff
