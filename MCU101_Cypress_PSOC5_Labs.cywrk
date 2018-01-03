@@ -3,12 +3,10 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="MCU101_Cypress_PSOC5_Labs" persistent="MCU101_Cypress_PSOC5_Labs.cywrk" platform="NOT_USED">
-<current_project name=".\Lab16-01_AudioController.cydsn\Lab16-01_AudioController.cyprj" />
+<current_project name=".\Lab06-01_MakingMusic_PWM-Frequency.cydsn\Lab06-01_MakingMusic_PWM-Frequency.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
-<v>.\Lessons\Lab01-01_BlinkingLight.cydsn\Lab01-01_BlinkingLight.cyprj</v>
-<v>.\Lessons\Overview_Lecture.cydsn\Overview_Lecture.cyprj</v>
 <v>.\Lab02-01_ButtonReader.cydsn\Lab02-01_ButtonReader.cyprj</v>
 <v>.\Lab03-01_SendingAMessage.cydsn\Lab03-01_SendingAMessage.cyprj</v>
 <v>.\Lab04-01_ReadingVoltage.cydsn\Lab04-01_ReadingVoltage.cyprj</v>
@@ -24,6 +22,8 @@
 <v>.\Lab14-01_GraphicLCD.cydsn\Lab14-01_GraphicLCD.cyprj</v>
 <v>.\Lab15-01_USB-Game-Controller.cydsn\Lab15-01_USB-Game-Controller.cyprj</v>
 <v>.\Lab16-01_AudioController.cydsn\Lab16-01_AudioController.cyprj</v>
+<v>.\Lab01-01_BlinkingLight.cydsn\Lab01-01_BlinkingLight.cyprj</v>
+<v>.\Lab00-01_Introductory_Lecture.cydsn\Lab00-01_Introductory_Lecture.cyprj</v>
 </projects>
 <workspace_id v="4a0fec35-98e7-4853-b9f3-372926b82623" />
 <WriteAppVersionLastSavedWith v="4.1.0.3210" />

@@ -1,11 +1,11 @@
 /* ========================================
  *
- * Copyright YOUR COMPANY, THE YEAR
+ * Copyright Prometheus Education, Inc, 2018
  * All Rights Reserved
- * UNPUBLISHED, LICENSED SOFTWARE.
+ * Open Source, MIT License.
  *
- * CONFIDENTIAL AND PROPRIETARY INFORMATION
- * WHICH IS THE PROPERTY OF your company.
+ * No assurances given, this is educational software,
+ * Prometheus Education, Inc. is not liable for damages or malfunctions.
  *
  * ========================================
 */

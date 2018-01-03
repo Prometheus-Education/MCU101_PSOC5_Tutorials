@@ -1,0 +1,22 @@
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab02-01_ButtonReader.cydsn\Lab02-01_ButtonReader.cyprj|704b2b55-214e-4d1b-8d47-725ab1ced999
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|2fe52b06-d378-40ab-9041-23afaa52306f
+C:\Users\Alex\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|9cf0cb85-9d96-4671-94ce-cad4a33338f3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0271002c-e553-48cd-8be2-10db783da4dc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|fd5f563b-ffbe-4cda-9b34-0a797b60c110
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|7cb20e6f-25b8-4075-81f8-738b473957e3
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab03-01_SendingAMessage.cydsn\Lab03-01_SendingAMessage.cyprj|579db639-23c5-4b37-b326-aced8767f2c3
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab04-01_ReadingVoltage.cydsn\Lab04-01_ReadingVoltage.cyprj|d9ec9b56-a822-4d36-9707-a89b18e2aa15
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab05-01_MotorControl_PWM-DutyCycle.cydsn\Lab05-01_MotorControl_PWM-DutyCycle.cyprj|46f1bc87-9023-47f0-b3bf-58dc53656574
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab06-01_MakingMusic_PWM-Frequency.cydsn\Lab06-01_MakingMusic_PWM-Frequency.cyprj|e6b7d259-827a-4477-b9f8-dd2794aeecba
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab07-01_InterChipCommunications_I2C.cydsn\Lab07-01_InterChipCommunications_I2C.cyprj|a0786aa7-371d-4b80-9444-d93eaf49a3c2
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab08-01_AnalogSignalGeneration.cydsn\Lab08-01_AnalogSignalGeneration.cyprj|0115cf19-ca07-434c-b320-c8da30099911
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab09-01_InterruptHandling.cydsn\Lab09-01_InterruptHandling.cyprj|3db8e9cf-3109-41fe-a5b8-997b8bb235d8
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab10-01_EEPROM_Datalogs.cydsn\Lab10-01_EEPROM_Datalogs.cyprj|de741ebd-7d53-409a-a9ec-822de203aa7c
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab11-01_DMA_Routing.cydsn\Lab11-01_DMA_Routing.cyprj|eddd448f-f19b-4c7d-a959-b1e8dcf3085d
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab12-01_RealTimeClock.cydsn\Lab12-01_RealTimeClock.cyprj|0afe5ada-759e-4348-8e35-9c2ed73ea748
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab13-01_CharacterLCD.cydsn\Lab13-01_CharacterLCD.cyprj|6ee526a1-3ac9-44e0-aae3-388ca69355e1
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab14-01_GraphicLCD.cydsn\Lab14-01_GraphicLCD.cyprj|2c712b50-61c5-4a88-a9e4-f65332bdbc32
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab15-01_USB-Game-Controller.cydsn\Lab15-01_USB-Game-Controller.cyprj|ae5da7bf-6de9-4e39-a2d5-011f82f8c23a
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab16-01_AudioController.cydsn\Lab16-01_AudioController.cyprj|2a9048a9-19f8-46a1-8973-a70bfe377d7d
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab01-01_BlinkingLight.cydsn\Lab01-01_BlinkingLight.cyprj|ba60ea71-93b0-4d46-87cc-d0c66714069c
+P:\Cypress_Tutorials_Working_Directory\MCU101_Cypress_PSOC5_Labs\MCU101_PSOC5_Tutorials\Lab00-01_Introductory_Lecture.cydsn\Lab00-01_Introductory_Lecture.cyprj|5fcbe6ad-054b-47b5-9c18-2dc5a105c953

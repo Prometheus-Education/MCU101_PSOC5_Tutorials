@@ -1,0 +1,17 @@
+# Lab06-01_MakingMusic_PWM-Frequency
+# 2018-01-03 04:41:49Z
+
+# IO_0@[IOP=(1)][IoId=(0)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 0
+# IO_1@[IOP=(1)][IoId=(1)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 1
+# IO_3@[IOP=(1)][IoId=(3)] is reserved: SWDDebugEnabled
+dont_use_io iocell 1 3
+set_location "ClockBlock" clockblockcell -1 -1 0
+set_io "PWM_Outpin_1(0)" iocell 1 7
+set_io "PWM_Outpin_2(0)" iocell 0 7
+set_io "PWM_Outpin_3(0)" iocell 3 0
+set_location "\PWM_1:PWMHW\" timercell -1 -1 0
+set_location "__ONE__" 1 3 0 0
+set_location "\PWM_2:PWMHW\" timercell -1 -1 1
+set_location "\PWM_3:PWMHW\" timercell -1 -1 2
